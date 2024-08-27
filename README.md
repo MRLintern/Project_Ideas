@@ -22,3 +22,5 @@ A List of Possible Future Projects
 -  Building my own __Container__ with __Golang__.
 -  Building a simple __Terminal Emulator__ in __Golang__.
 -  Creating a __Distributed Service__ in __Golang__.
+-  Creating an application which plays __movies (mp4's)__ called ___RustyPlay___, developed in __Rust__.
+-  Creating a Web Application called ___HobbyBook___ in __Golang__. Its a Social Media application in which people can interact with people who share the same hobbies, can sell their products. Think __Facebook__ meets __Etsy__.
