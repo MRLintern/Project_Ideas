@@ -15,7 +15,7 @@ A List of Possible Future Projects
 -  Creating a __Cryptocurrency Trading Bot__ with a __User Interface__ in __Python__.
 -  Creating a simple __Trading Bot__ in __Java__. I've never worked with __Java__ and I've always been put off by it; Might be a good time to see why!
 -  Creating a basic __Online Oil & Gas Data Management System__ called ___OGManager___, developed in __Golang__.
--  Writing a solver for the __(Discrete) Fast Fourier Transform__ using __OpenCL__. I studied __Geophyics__ so I'm naturally interested in applications of __Signal Processing__.
+-  Writing a solver for the __(Discrete) Fast Fourier Transform__ using __OpenCL__.
 -  Building a __RISC-V Operating System__ using __Rust__.
 -  Building a __Shell__ in __Golang__.
 -  Building a __Browser Engine__ in __Rust__.
